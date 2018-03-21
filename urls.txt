@@ -3,3 +3,6 @@ https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernat
 
 How to create a MySQL database
 https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line
+
+How to start, stop and control MySQL instance
+https://dev.mysql.com/doc/refman/5.7/en/osx-installation-launchd.html
