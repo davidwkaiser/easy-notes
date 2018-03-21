@@ -1,0 +1,5 @@
+Where this tutorial can be found
+https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/
+
+How to create a MySQL database
+https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and-users-from-the-command-line
