@@ -6,3 +6,6 @@ https://www.a2hosting.com/kb/developer-corner/mysql/managing-mysql-databases-and
 
 How to start, stop and control MySQL instance
 https://dev.mysql.com/doc/refman/5.7/en/osx-installation-launchd.html
+
+MySQL at the command line
+https://teamtreehouse.com/community/getting-mysql-to-work-on-the-command-line-mac
