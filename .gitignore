@@ -26,3 +26,5 @@ nbdist/
 
 ### Other ###
 pw.txt
+production/
+application.properties
