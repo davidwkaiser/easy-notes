@@ -20,6 +20,9 @@ public class Note implements Serializable {
     private long Id;
 
     @NotBlank
+    private String title;
+
+    @NotBlank
     private String content;
 
     @Column(nullable = false, updatable = false)
@@ -40,6 +43,14 @@ public class Note implements Serializable {
 
     public void setId(long id) {
         Id = id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
     }
 
     public String getContent() {
