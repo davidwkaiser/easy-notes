@@ -5,4 +5,4 @@ See my portfolio at http://davidwkaiser.squarespace.com
 See my LinkedIn at http://linkedin.com/in/davidwkaiser   
 
 UPDATE (4/26/18) It works, I tested it locally. 
-NEXT STEP - I Have deployed to Heroku, but it's not working yet. :-/
+NEXT STEP - I Have deployed to Heroku, but it's not working yet, migrations are not running. :-/
