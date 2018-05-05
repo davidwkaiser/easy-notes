@@ -26,6 +26,7 @@ repositories {
 
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-data-jpa')
+	compile group: 'commons-dbcp', name: 'commons-dbcp', version: '1.4'
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('org.flywaydb:flyway-core:5.0.7')
 	runtime('org.springframework.boot:spring-boot-devtools')
